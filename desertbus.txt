@@ -1,0 +1,51 @@
+ekimekim : I use # on each line for internal comments, docstrings for public interface
+EldraziOutlaw : test
+EldraziOutlaw : :O
+EldraziOutlaw : I now have logging that logs a persons name and message instead of just everything
+EldraziOutlaw : ACTION tests actions
+EldraziOutlaw : ACTION is kinda happy with how this is going :)
+EldraziOutlaw : ekimekim: thank you for the help yesterday btw
+Tyranic-Moron : IRC bots are a nice project to get instant results from (once the initial connection stuff is written)
+EldraziOutlaw : so good for learning then :P
+Tyranic-Moron : yep yep
+EldraziOutlaw : ugh
+Didero : "kind of happy" followed by "ugh" does summarize programming pretty well, yeah
+EldraziOutlaw : Didero: that was actually at github, needing my to use 2fa when my phone is dead >.>
+EldraziOutlaw : Tyranic-Moron: with github, when it says your name... does that my my real name, or my user name on github?
+Didero : You have to use 2fa now?
+ekimekim : EldraziOutlaw: it can be what you like
+Starnerf : they actually ask for your birth certificate for verification
+Starnerf : especially if you're from a country where they don't give out birth certificates
+Tyranic-Moron : lol
+Tyranic-Moron : yeah, any name
+Didero : https://i.imgur.com/aIx6s45.jpg
+PyMoronBot : Imgur: The most awesome images on the Internet 14| 640x640 14| Size: 52kb 14| Views: 13,249
+Didero : Imgur is ruining my brain
+Tyranic-Moron : I used my real name because I used it as a portfolio for jerbs and Tyranic-Moron didn't seem like the best choice there :P
+EldraziOutlaw : haha
+EldraziOutlaw : ACTION thinks they did the ssh key thing correctly
+EldraziOutlaw : man githubs guides are kinda awkward
+EldraziOutlaw : Tyranic-Moron: ok so I have git installed... now wut
+Tyranic-Moron : did you make a repo on github yet?
+lunik1 : ~log
+PyHeufyBot : Log for #desertbus on 2016-06-28: http://goo.gl/m5i3vm
+Tyranic-Moron : https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+PyMoronBot : Adding an existing project to GitHub using the command line - User Documentation (at help.github.com)
+EldraziOutlaw : that...
+lunik1 : make sure to use the url for ssh!
+EldraziOutlaw : ok am I missing something, because that page is literally just a warning with no info on it
+lunik1 : yes
+Tyranic-Moron : there's a 9-step thing underneath that
+lunik1 : you are missing something
+EldraziOutlaw : It has "Putting your existing work on GitHub can let you share and collaborate in lots of great ways." then a warning about not sharing passwords, and then further reading
+EldraziOutlaw : I am not seeing any steps
+EldraziOutlaw : lunik1: probably not because apparently github is not showing me any fucking steps to do shit
+Tyranic-Moron : steps disappear if I disable javascript
+Tyranic-Moron : so check that?
+EldraziOutlaw : oh apparently they don't show up unless you click the very very tiny linux word
+lunik1 : that's odd
+Quarte2Nexus : !tell zeke* http://aku-usagi.tumblr.com/post/145420670808/excited-for-the-new-pokemon-d-decided-to-do-some
+PyMoronBot : Portable Atrocities! Must be encapsulated en masse!
+SafeBot : Ok, I'll tell zeke* next time I see them speak.
+PyMoronBot : (｡’▽’｡)♡ — excited for the new pokemon! :D decided to do some... (at aku-usagi.tumblr.com)
+lunik1 : maybe it tries to autodetect your OS and it failed?

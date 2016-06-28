@@ -1,0 +1,120 @@
+:dawnguard.dbcommunity.org 001 EldraziBot :Welcome to the DBChat Internet Relay Chat Network EldraziBot!EldraziBot@cpc85654-dund15-2-0-cust96.16-4.cable.virginm.net
+:dawnguard.dbcommunity.org 002 EldraziBot :Your host is dawnguard.dbcommunity.org, running version txircd-0.4.0rc2
+:dawnguard.dbcommunity.org 003 EldraziBot :This server was created 2016-02-27 09:49:38
+:dawnguard.dbcommunity.org 004 EldraziBot dawnguard.dbcommunity.org txircd-0.4.0rc2 sixGwo bWklfCGicKmSnpstahqov
+:dawnguard.dbcommunity.org 005 EldraziBot KICKLEN=255 STATUSMSG=~&@%+ NETWORK=DBChat USERMODES=s,,,ixGwo CHANTYPES=# TOPICLEN=326 AWAYLEN=200 CHANNELEN=64 CHANMODES=bW,k,lf,CGicKmSnpst PREFIX=(qaohv)~&@%+ MODES=20 CASEMAPPING=strict-rfc1459 NICKLEN=32 MONITOR METADATA=100 :are supported by this server
+:dawnguard.dbcommunity.org MODE EldraziBot +x
+:dawnguard.dbcommunity.org 251 EldraziBot :There are 65 users and 21 invisible on 4 servers
+:dawnguard.dbcommunity.org 252 EldraziBot 4 :operators online
+:dawnguard.dbcommunity.org 254 EldraziBot 5 :channels formed
+:dawnguard.dbcommunity.org 255 EldraziBot :I have 18 clients and 1 servers
+:dawnguard.dbcommunity.org 265 EldraziBot :Current Local Users: 18  Max: 44
+:dawnguard.dbcommunity.org 266 EldraziBot :Current Global Users: 86  Max: 133
+:dawnguard.dbcommunity.org 375 EldraziBot :dawnguard.dbcommunity.org Message of the Day
+:dawnguard.dbcommunity.org 372 EldraziBot :Welcome to DB Chat!
+:dawnguard.dbcommunity.org 372 EldraziBot :DawnGuard! En Garde!
+:dawnguard.dbcommunity.org 372 EldraziBot :Rules: Wheaton's Law applies at all times. There are no other rules.
+:dawnguard.dbcommunity.org 372 EldraziBot :See an op if you're having issues or problems.
+:dawnguard.dbcommunity.org 372 EldraziBot Enjoy!
+:dawnguard.dbcommunity.org 376 EldraziBot :End of message of the day
+:EldraziBot!EldraziBot@dbchat-b8d4970b.cable.virginm.net JOIN #desertbus
+:dawnguard.dbcommunity.org 332 EldraziBot #desertbus :Welcome to the Desert Bus community chat! | Use /LIST for all available channels | DB9 log: http://bit.ly/DB9-Timeline | DB9 torrent: http://gtfo.fail/DesertBus9.torrent | Help us improve stuff by testing the server over at the testnet: http://jriddle.net/txircd.html
+:dawnguard.dbcommunity.org 333 EldraziBot #desertbus nightwatch.dbcommunity.org 1465280637
+:dawnguard.dbcommunity.org 353 EldraziBot = #desertbus :Harbot Cuttlefishman DideRobot Larscis TinoDidriksen H-moon ekimbot|9 Deedles Helle ekimekim|work rucdoc reptile Maddog Gilles CrazyMax46 PsychoI3oy HubbeWork elcalen Spluuga henine Hubbot Hiramas @MasterCheese Requit ~ElementalAlchemist Sajuuk BillTheCat RoBoBo Bluedragoon DarkMorford SilentArc
+:dawnguard.dbcommunity.org 353 EldraziBot = #desertbus :SecretaryCait Anaerin Caitiri Itazu HPBraincase area ricin lirelent J EldraziOutlaw ufdm Stephan SafeBot bpugh @Tyranic-Moron BrainStew &HeufyCloud other_henine &Anubis169 PyMoronBot Noy2222 bubba0077 yimmu EldraziBot Telnaior Mowinckel fuflacanth AlphaflightLog memebot Didero TwistedPear
+:dawnguard.dbcommunity.org 353 EldraziBot = #desertbus :DawnguardLog rakslice SanityisOverrated ni1s &Dragoon SixFootTurkey Cate Ranneko ekimbot Quarte2Nexus tr0lit ekimekim Famout HKitain Kite PyHeufyBot QuarterNote Fayili malc SakariN LambMower sektor88 ZetashiftLog LordZaranexus
+:dawnguard.dbcommunity.org 366 EldraziBot #desertbus :End of /NAMES list
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :ACTION is kinda happy with how this is going :)
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :ekimekim: thank you for the help yesterday btw
+:lunik1_!lunik1@513d5057.78ef2732.475dfad2.eea3bf2f.IP JOIN #desertbus
+:Cuttlefishman!Cuttlefishma@dbchat-6acf754f.ns.bellaliant.net QUIT :Connection reset
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:Noy2222[Werk]!c25a195a@dbchat-e2d2ce70.mibbit.com JOIN #desertbus
+:lunik1_!lunik1@513d5057.78ef2732.475dfad2.eea3bf2f.IP QUIT :Ping timeout
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :IRC bots are a nice project to get instant results from (once the initial connection stuff is written)
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :so good for learning then :P
+PING dawnguard.dbcommunity.org
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :yep yep
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:Starnerf!Starnerf@a4bb6a0e.cf767bf5.d7bb70b6.702a912c.IP JOIN #desertbus
+:MrBlue!18d9504a@dbchat-aad6d413.clients.kiwiirc.com JOIN #desertbus
+PING dawnguard.dbcommunity.org
+:ylegm!kvirc@dbchat-3d86e68a.om.cox.net JOIN #desertbus
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :ugh
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:Didero!no@dbchat-9a46cf0c.adsl.xs4all.nl PRIVMSG #desertbus :"kind of happy" followed by "ugh" does summarize programming pretty well, yeah
+:lunik1_!lunik1@dbchat-7f40e413.skybroadband.com JOIN #desertbus
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :Didero: that was actually at github, needing my to use 2fa when my phone is dead >.>
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :Tyranic-Moron: with github, when it says your name... does that my my real name, or my user name on github?
+:Didero!no@dbchat-9a46cf0c.adsl.xs4all.nl PRIVMSG #desertbus :You have to use 2fa now?
+PING dawnguard.dbcommunity.org
+:ekimekim!ekimekim@dbchat-117b0f90.ca.comcast.net PRIVMSG #desertbus :EldraziOutlaw: it can be what you like
+:Starnerf!Starnerf@a4bb6a0e.cf767bf5.d7bb70b6.702a912c.IP PRIVMSG #desertbus :they actually ask for your birth certificate for verification
+:Starnerf!Starnerf@a4bb6a0e.cf767bf5.d7bb70b6.702a912c.IP PRIVMSG #desertbus :especially if you're from a country where they don't give out birth certificates
+PING dawnguard.dbcommunity.org
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :lol
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :yeah, any name
+:Didero!no@dbchat-9a46cf0c.adsl.xs4all.nl PRIVMSG #desertbus :https://i.imgur.com/aIx6s45.jpg
+:PyMoronBot!PyMoronBot@dbchat-c9ff163b.uk PRIVMSG #desertbus :Imgur: The most awesome images on the Internet 14| 640x640 14| Size: 52kb 14| Views: 13,249
+:Didero!no@dbchat-9a46cf0c.adsl.xs4all.nl PRIVMSG #desertbus :Imgur is ruining my brain
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :I used my real name because I used it as a portfolio for jerbs and Tyranic-Moron didn't seem like the best choice there :P
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :haha
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :ACTION thinks they did the ssh key thing correctly
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :man githubs guides are kinda awkward
+PING dawnguard.dbcommunity.org
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :Tyranic-Moron: ok so I have git installed... now wut
+PING dawnguard.dbcommunity.org
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :did you make a repo on github yet?
+PING dawnguard.dbcommunity.org
+:lunik1_!lunik1@dbchat-7f40e413.skybroadband.com NICK lunik1
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :~log
+:PyHeufyBot!PyHeufyBot@5c87e33d.5ee65777.0c8c57ea.a0172947.IP PRIVMSG #desertbus :Log for #desertbus on 2016-06-28: http://goo.gl/m5i3vm
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+:PyMoronBot!PyMoronBot@dbchat-c9ff163b.uk PRIVMSG #desertbus :Adding an existing project to GitHub using the command line - User Documentation (at help.github.com)
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :that...
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :make sure to use the url for ssh!
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :ok am I missing something, because that page is literally just a warning with no info on it
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :yes
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :there's a 9-step thing underneath that
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :you are missing something
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :It has "Putting your existing work on GitHub can let you share and collaborate in lots of great ways." then a warning about not sharing passwords, and then further reading
+PING dawnguard.dbcommunity.org
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :I am not seeing any steps
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :lunik1: probably not because apparently github is not showing me any fucking steps to do shit
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :steps disappear if I disable javascript
+PING dawnguard.dbcommunity.org
+:Tyranic-Moron!TM@tyranicmoron.uk PRIVMSG #desertbus :so check that?
+:EldraziOutlaw!EldraziOutla@dbchat-b8d4970b.cable.virginm.net PRIVMSG #desertbus :oh apparently they don't show up unless you click the very very tiny linux word
+PING dawnguard.dbcommunity.org
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :that's odd
+:Quarte2Nexus!QN@dbchat-55f4a439.md.comcast.net PRIVMSG #desertbus :!tell zeke* http://aku-usagi.tumblr.com/post/145420670808/excited-for-the-new-pokemon-d-decided-to-do-some
+:PyMoronBot!PyMoronBot@dbchat-c9ff163b.uk PRIVMSG #desertbus :Portable Atrocities! Must be encapsulated en masse!
+:SafeBot!SafeBot@dbchat-2003a32d.fios.verizon.net PRIVMSG #desertbus :Ok, I'll tell zeke* next time I see them speak.
+:PyMoronBot!PyMoronBot@dbchat-c9ff163b.uk PRIVMSG #desertbus :(｡’▽’｡)♡ — excited for the new pokemon! :D decided to do some... (at aku-usagi.tumblr.com)
+:lunik1!lunik1@dbchat-7f40e413.skybroadband.com PRIVMSG #desertbus :maybe it tries to autodetect your OS and it failed?
+PING dawnguard.dbcommunity.org
