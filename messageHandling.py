@@ -1,6 +1,11 @@
 def typecheck(rawinput):
     type = ""
-    if "PRIVMSG" in rawinput:
+    if "\x01" in rawinput:
+        if "ACTION" in rawinput:
+            type = "ACTION"
+        else:
+            type = "CTCP"
+    elif "PRIVMSG" in rawinput:
         type = "PRIVMSG"
     elif "JOIN" in rawinput:
         type = "JOIN"
@@ -14,8 +19,6 @@ def typecheck(rawinput):
         type = "PING"
     elif "PONG" in rawinput:
         type = "PONG"
-    elif "\x01" in rawinput:
-        type = "CTCP"
     else:
         type = "defualt"
     return type
@@ -29,3 +32,12 @@ def getlocation(rawinput):
     discard,temp = rawinput.split("#",1)
     location,discard = temp.split(" :",1)
     return location
+
+def firstword(rawinput):
+    location=getlocation(rawinput)
+    discard,temp=rawinput.split(location +" :",1)
+    try:
+        firstword,discard=temp.split(" ",1)
+    except:
+        firstword=temp
+    return firstword
