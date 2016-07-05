@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1bf8c2-3fbe-475a-9d2a-9446f41184d3" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tellModual.py" afterPath="$PROJECT_DIR$/tellModule.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ircBot.py" afterPath="$PROJECT_DIR$/ircBot.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BDSM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desertbus.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default.txt" afterPath="$PROJECT_DIR$/default.txt" />
     </list>
     <ignored path="ircBot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -347,9 +347,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14632238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14632238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37406856" sideWeight="0.5057648" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
