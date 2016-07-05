@@ -13,12 +13,13 @@ def leavemessage(message):
     name,message=message.split(" ",1)
     with open ("./" + name, "a") as messagefile:
         print "building messagefile"
-        messagefile.write(name + ":" + message + " From " + sender + "\r\n")
+        messagefile.write(name + ": " + message + " From " + sender + "\r\n")
 
-def giveessage(name):
-    message = ""
+def givemessage(name):
+    message = []
     with open("./" + name, "r") as messagefile:
-        message=messagefile.read()
+        for line in messagefile:
+            message.append(line)
         os.remove("./" + name)
     return message
 

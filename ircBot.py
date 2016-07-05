@@ -1,17 +1,18 @@
-import socket, argparse, botLogging, messageHandling, ctcpResponse, tellModual
+import socket, argparse, botLogging, messageHandling, ctcpResponse, tellModule
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-s", dest="server", help="server destination", default="irc.dbcommunity.org")
 parser.add_argument("-p", dest="port", help="port number", default=6667, type=int)
 parser.add_argument("-c", dest="chan", help="chan", default="desertbus")
+parser.add_argument("-n", dest="botnick", help="bot nickname", default="GhostBot")
 args = parser.parse_args()
-botnick = "EldraziBot"
 buffsize = 2048
+botnick= args.botnick
 port = args.port
 server = args.server
 chan= args.chan
-uname = "EldraziBot"
-realname = "ToManyNamesIConfuse"
+uname = "GhostBot"
+realname = "PlsDon'tBreak"
 
 
 def ping(pongmsg):
@@ -51,11 +52,13 @@ def main():
             firstword = messageHandling.firstword(ircmsg)
             try:
                 botLogging.log(ircmsg)
-                if tellModual.havemessage(messageHandling.getsender(ircmsg)):
-                    ircsock.send("PRIVMSG #" + chan + " :" + tellModual.giveessage(messageHandling.getsender(ircmsg)))
+                if tellModule.havemessage(messageHandling.getsender(ircmsg)):
+                    message=tellModule.givemessage(messageHandling.getsender(ircmsg))
+                    for lines in message:
+                        ircsock.send("PRIVMSG #" + chan + " :" + lines)
                 if firstword == "&tell":
                     ircsock.send("PRIVMSG #" + chan + " :OK, I will tell them that next time they speak\r\n")
-                    tellModual.leavemessage(ircmsg)
+                    tellModule.leavemessage(ircmsg)
                 if firstword == "&help":
                     name=messageHandling.getsender(ircmsg)
                     ircsock.send("NOTICE " + name + " nu\r\n")
